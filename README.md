@@ -50,10 +50,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## 🖼️ Screenshots  
 
 ### **Gallery View**  
-![Gallery View](https://via.placeholder.com/800x400)  
+![Gallery View](https://plus.unsplash.com/premium_photo-1712685912266-aa85a267a419?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)  
 
 ### **Upload Photo**  
-![Upload Photo](https://via.placeholder.com/800x400)  
+![Upload Photo](https://plus.unsplash.com/premium_photo-1712016875106-387d73f0019b?q=80&w=1466&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)  
 
 ## 📂 Project Structure  
 ```bash  
